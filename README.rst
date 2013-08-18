@@ -15,5 +15,5 @@ so that you stop going there to see if you have new messages :-)
 
 And you should see this:
 
-![](http://alexis.notmyidea.org/notif.png)
+.. image:: http://alexis.notmyidea.org/notif.png
 
